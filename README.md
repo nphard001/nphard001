@@ -1,3 +1,44 @@
+# Hello, I'm [WHT] 👋
+> NOTE: ChatGPT ver.
+
+## Welcome to My GitHub Profile!
+
+🌐 I'm passionate about building scalable applications and exploring new technologies. Below are some of the tools and technologies I specialize in:
+
+### Frontend Development
+- React ⚛️
+- JavaScript/TypeScript 📜
+
+### Backend and Cloud Computing
+- AWS ☁️
+- Python 🐍
+- C/C++ ➕➕
+
+### Machine Learning and AI
+- PyTorch 🔥
+- Stable Diffusion 🎨
+- ChatGPT 🤖
+- Deep Learning 🧠
+- Reinforcement Learning 🎮
+- AI 🤖
+
+### Data Science and Quantitative Analysis
+- Data Science 📊
+- Quantitative Finance 💹
+- Risk Management 🛡️
+- Econometrics 📈
+- Time Series Analysis ⏳
+
+### Programming and Algorithms
+- Algorithm ⚙️
+- Cloud Computing ☁️
+
+Feel free to browse through my projects and don't hesitate to reach out if you have any questions or collaboration ideas!
+
+Let's connect! [LinkedIn](#) | [Twitter](#) | [Blog](#)
+
+
+
 ## Hi there 👋
 
 <!--
