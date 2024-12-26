@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
+![proj_chat](https://soldapi.com/human_img/proj_chat.png)
+
 👨‍💻 **About Me:**
 I'm a passionate software engineer specializing in several cutting-edge fields. Here's a quick overview of my areas of expertise and interests:
 
