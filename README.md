@@ -1,5 +1,10 @@
 # Welcome to My GitHub Profile! 👋
 
+## Deep Learning & Quantitative Finance
+![proj_fin](https://soldapi.com/human_img/proj_stats.png)
+
+---
+
 ## Image Generation
 ![proj_img](https://soldapi.com/human_img/proj_img.png)
 
