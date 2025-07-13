@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
+a.k.a [@qt5566 at Threads](https://www.threads.com/@qt5566)
+
 ## Deep Learning & Quantitative Finance
 ![proj_fin](https://soldapi.com/human_img/proj_stats.png)
 
