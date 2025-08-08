@@ -1,9 +1,18 @@
-# 🐧 nphard001 // Developer & AI Enthusiast
+# Hello, developer `nphard001` here. 🐧
+
+I'm a developer with a passion for deep learning, quantitative finance, and generative AI.
+
+---
 
 ## 🚀 Featured Projects
 
-- **[Highlight Posts on Threads](https://github.com/nphard001/qt5566)**: A tool designed to highlight and feature specific posts on the Threads platform.
-- **[A Beginner's Guide to Coding with Claude](https://github.com/nphard001/zero2code)**: This repository contains the source code and materials for my guide on getting started with coding using Claude, originally shared on Threads.
+- **[nphard001/qt5566](https://github.com/nphard001/qt5566)**
+  
+  An organized knowledge base of my thoughts, tips, and tutorials on AI models like Claude, GPT, and Gemini. All content is curated from my posts on [Threads @qt5566](https://www.threads.com/@qt5566).
+
+- **[nphard001/zero2code](https://github.com/nphard001/zero2code)**
+  
+  From "I know nothing" to "I can code!" This is a complete, hands-on guide for absolute beginners designed to demystify programming. It uses plain language and interactive notebooks to teach modern tools like Git, Docker, and how to use Claude as an AI coding partner.
 
 ## 🔗 Connect with Me
 
