@@ -1,28 +1,26 @@
-# Welcome to My GitHub Profile! 👋
+# 🐧 nphard001 // Developer & AI Enthusiast
 
-a.k.a [@qt5566 at Threads](https://www.threads.com/@qt5566) / qtwu
+## 🚀 Featured Projects
 
-## Deep Learning & Quantitative Finance
+- **[Highlight Posts on Threads](https://github.com/nphard001/qt5566)**: A tool designed to highlight and feature specific posts on the Threads platform.
+- **[A Beginner's Guide to Coding with Claude](https://github.com/nphard001/zero2code)**: This repository contains the source code and materials for my guide on getting started with coding using Claude, originally shared on Threads.
+
+## 🔗 Connect with Me
+
+- **Threads:** [@qt5566](https://www.threads.com/@qt5566)
+- **GitHub:** [@nphard001](https://github.com/nphard001)
+
+---
+
+## 💡 Areas of Interest
+
+Here are some of the fields I'm actively working in:
+
+#### Deep Learning & Quantitative Finance
 ![proj_fin](https://soldapi.com/human_img/proj_stats.png)
 
----
-
-## Image Generation
+#### Image Generation
 ![proj_img](https://soldapi.com/human_img/proj_img.png)
 
----
-
-## Text Generation
+#### Text Generation
 ![proj_book](https://soldapi.com/human_img/proj_book.png)
-
-
-👨‍💻 **About Me:**
-I'm a passionate software engineer specializing in several cutting-edge fields. Here's a quick overview of my areas of expertise and interests:
-
-🔧 **Technologies:**
-- 🌐 Web Development: `React` 🎨
-- ☁️ Cloud Services: `AWS` ⛅
-- 🐍 Programming: `Python` 🐍
-- 🤖 AI & Machine Learning: `PyTorch` 🔥, `Stable Diffusion` 🎭, `ChatGPT` 🗣️, `Deep Learning` 🧠
-- 💻 Programming Languages: `C/C++` ⚙️, `JavaScript/TypeScript` 📜
-- 📊 Data Science: `Data Analysis` 🔍, `Econometrics` 📈, `Time Series Analysis` ⌛
